@@ -18,16 +18,33 @@
  7.0.0.0:0 [1] Trying to join...
  6.0.0.0:0 [1] Trying to join...
  5.0.0.0:0 [1] Trying to join...
- 1.0.0.0:0 [1] mesgg
- 1.0.0.0:0 [1] mesgg
- 1.0.0.0:0 [1] mesgg
+ 2.0.0.0:0 [1] data
+ 1.0.0.0:0 [1] Node 2.0.0.0:0 joined at time 1
+ 3.0.0.0:0 [1] data
+ 1.0.0.0:0 [1] Node 3.0.0.0:0 joined at time 1
+ 4.0.0.0:0 [1] data
+ 1.0.0.0:0 [1] Node 4.0.0.0:0 joined at time 1
  10.0.0.0:0 [2] Trying to join...
  9.0.0.0:0 [2] Trying to join...
- 1.0.0.0:0 [2] mesgg
- 1.0.0.0:0 [2] mesgg
- 1.0.0.0:0 [2] mesgg
- 1.0.0.0:0 [2] mesgg
- 1.0.0.0:0 [3] mesgg
- 1.0.0.0:0 [3] mesgg
- 8.0.0.0:0 [100] Node failed at time=100
- 1.0.0.0:0 [500] @@time=500
+ 0.0.0.0:0 [2] data
+ 0.0.0.0:0 [2] data
+ 0.0.0.0:0 [2] data
+ 5.0.0.0:0 [2] data
+ 1.0.0.0:0 [2] Node 5.0.0.0:0 joined at time 2
+ 6.0.0.0:0 [2] data
+ 1.0.0.0:0 [2] Node 6.0.0.0:0 joined at time 2
+ 7.0.0.0:0 [2] data
+ 1.0.0.0:0 [2] Node 7.0.0.0:0 joined at time 2
+ 8.0.0.0:0 [2] data
+ 1.0.0.0:0 [2] Node 8.0.0.0:0 joined at time 2
+ 0.0.0.0:0 [3] data
+ 0.0.0.0:0 [3] data
+ 0.0.0.0:0 [3] data
+ 0.0.0.0:0 [3] data
+ 9.0.0.0:0 [3] data
+ 1.0.0.0:0 [3] Node 9.0.0.0:0 joined at time 3
+ 10.0.0.0:0 [3] data
+ 1.0.0.0:0 [3] Node 10.0.0.0:0 joined at time 3
+ 0.0.0.0:0 [4] data
+ 0.0.0.0:0 [4] data
+ 1.0.0.0:0 [100] Node failed at time=100
